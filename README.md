@@ -1,2 +1,2 @@
-# serial2http
-Serial data transfer as HTTP
+# serial2influxdb
+store serial data to influxdb
