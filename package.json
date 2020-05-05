@@ -11,5 +11,9 @@
     "url": "https://github.com/kadoshita/serial2http.git"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@serialport/parser-readline": "^8.0.6",
+    "serialport": "^8.0.7"
+  }
 }
